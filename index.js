@@ -17,7 +17,6 @@ app.use(express.json());
 app.use('/api/users', userRoutes);
 app.use('/api/notes', noteRoutes);
 
-
 app.listen(port, () => {
     console.log(`Servidor Conectado en:  http://localhost:${port}`);
 });
