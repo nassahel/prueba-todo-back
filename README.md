@@ -23,7 +23,7 @@ Aplicación de Tareas con caracteristicas avanzadas. Proyecto creado con React V
 - MongoDB.
 
 ## URL Base de la API: 
-`https://zoco-back.onrender.com`
+`https://prueba-zoco-back.onrender.com`
 
 ## Instalacion:
 - La aplicacion no necesita instalacion.
